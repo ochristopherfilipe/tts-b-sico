@@ -1,0 +1,56 @@
+# Arquivos de credenciais
+gen-lang-client-0651629218-dd663c7f01c3.json
+.env
+
+# Diretórios e arquivos do Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Ambiente virtual
+venv/
+ENV/
+
+# Arquivos temporários de áudio
+*.mp3
+*.wav
+*.ogg
+
+# Streamlit
+.streamlit/
+
+# Logs
+*.log
+
+# Arquivos de sistema macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Arquivos temporários do Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Arquivos IDE
+.idea/
+.vscode/
+*.swp
+*.swo 
